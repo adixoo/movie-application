@@ -1,3 +1,4 @@
-h1{
-    color:red;
+.hero{
+    height:100dvh;
+    min-height:max-content;
 }
